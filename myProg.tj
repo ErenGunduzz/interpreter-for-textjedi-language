@@ -1,0 +1,7 @@
+new text MyText;
+MyText:= "Hello World";
+new int myInt;
+myInt:= 3;
+new text myText; myText:= "eren";
+myInt:= 0;
+/* dhjasha */
